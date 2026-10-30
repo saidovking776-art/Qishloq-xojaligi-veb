@@ -211,7 +211,6 @@
             text-align: justify;
         }
 
-        /* Video bo'limi */
         .video-section {
             background: var(--card-bg);
             border: 1px solid var(--border-color);
